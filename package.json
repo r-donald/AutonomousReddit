@@ -5,10 +5,14 @@
   "repository": "https://github.com/r-donald/AutonomousReddit.git",
   "author": "r-donald <reddittrump0@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "devDependencies": {
     "dotenv": "^16.4.7"
   },
   "dependencies": {
+    "fastify": "^5.2.1",
     "snoowrap": "^1.23.0"
   }
 }
