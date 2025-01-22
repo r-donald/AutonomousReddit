@@ -7,5 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "snoowrap": "^1.23.0"
   }
 }
